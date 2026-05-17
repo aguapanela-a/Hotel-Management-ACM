@@ -1,7 +1,7 @@
 package com.acm.sgh.reservationsManagement.enumerations;
 
 public enum ReservationStatus {
-    EARRING,
+    PENDING,
     CONFIRMED,
     CANCELLED,
     COMPLETED
